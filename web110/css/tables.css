@@ -1,0 +1,37 @@
+/* styles for tables */
+
+table {
+    border-collapse: collapse;
+    border: 1px solid #000;
+    width: 80%;
+    margin: auto;
+}
+
+/*tr {
+    background-color: darkgray;
+}
+*/
+
+tr:nth-child(even), thead tr{
+    background-color: darkgray;
+    color:black;
+}
+
+thead tr{
+    background-color: dimgray;
+}
+
+td,th {
+    border: 1px solid #000;
+    padding: .5em;
+    text-align: center;
+}
+    
+.text_left {
+    text-align: left;
+}
+
+
+.c1 {
+    width: 10%;
+}

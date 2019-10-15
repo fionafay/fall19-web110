@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
  <head>
-     <title>Fiona's WEB110 Portal Website</title>
+     <title>Fiona Fay: Contact Form</title>
   <meta charset="utf-8" />
   <meta name="robots" content="noindex,nofollow" />
   <meta name="viewport" content="width=device-width" />
@@ -10,9 +10,9 @@
  </head>
  <body>
      <header>
-     <h1>Fiona's WEB110 Portal Website</h1>
+     <h1>Fiona Fay: Contact Form</h1>
      <nav class="topnav" id="myTopnav">
-       <a href="index.html" class="active">Welcome</a>
+       <a href="index.html">Welcome</a>
        <a href="elements.html">HTML Elements</a>
        <a href="aia.html">AIA</a>
        <a href="big/index.html">BIG</a>
@@ -20,24 +20,15 @@
        <a href="https://www.linkedin.com/learning/" target="_blank">LinkedIn Learning</a>
        <a href="flowchart.html">Flowchart</a>
        <a href="fp/index.html">Final Project</a>
-       <a href="contact.php">Contact Fiona</a>
+       <a href="contact.php" class="active">Contact Fiona</a>
        <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
     </nav>
      </header>
      
    <main class="wrapper">
-     
-     <img class="desktop" src="images/desktop.jpg" alt="Photo of Fiona's cat Nyko" />
        
-     <img class="tablet" src="images/tablet.jpg" alt="Photo of Nyko" />
-       
-     <img class="phone" src="images/phone.jpg" alt="Sketch of Nyko" />
-       
-       <h2 class="subheader margin_auto">A little About Me</h2>
-       
-       <h3 class="margin_auto">Hi! I'm Fiona and this is my 1 year-old Ragdoll boy.</h3>
-           
-      <p>I'm an international student from China, I currently taking Web Design program in Seattle Central College. This my third quarter in SCC. I decided to start with learning Web Design and I really interesting in UI and UX design. I love the feeling when I can create something beautiful and creatively. I never do coding before and it is my first time entirely to learn HTML, CSS, and JavaScript.</p>
+       <h2 class="subheader">Contact Fiona</h2>
+       <p>Contact Form assignment, coming soon!</p>
 
      <footer>
       <p><small>&copy; 2019 by <a href="contact.php">Contact Fiona Fay </a>, All Rights Reserved ~ <a href="http://validator.w3.org/check/referer" target="_blank">Valid HTML</a> ~ <a href="http://jigsaw.w3.org/css-validator/check?uri=referer" target="_blank">Valid CSS</a></small></p>
